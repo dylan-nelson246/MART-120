@@ -1,0 +1,13 @@
+First and foremost, GUI stands for "Graphical User Interface", which is a way of interaction through graphical (or visual) elements such as an icon, menus, computer windows, and buttons. Examples of using a GUI, can be something like your ability to browse the internet , or open/close files. 
+
+CLI stands for "Command Line Interface". This is also a way of interacting with computer systems, but it's definitely a more complex way of interacting with computers compared to GUI. In CLI, interactions require you to input text commands into something like a computer terminal. CLI is mainly used for actions such as scripting. With CLI, things you can do are manage files, and code? I think.
+
+
+
+
+
+
+
+
+
+-Dylan Nelson
